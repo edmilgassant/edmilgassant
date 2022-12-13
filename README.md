@@ -7,6 +7,7 @@
   
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/edmilgassant/active-directory)
+  - [Network Protocols and Network Security Groups](https://github.com/edmilgassant)
   
 <h2>🤳Connect with me:</h2>
 
