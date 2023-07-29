@@ -13,7 +13,7 @@
 
 - <b>bash_scripting</b>
   - [Having fun with scripting](https://github.com/edmilgassant/bash_script)
-
+  - [fun permissions.sh](https://github.com/edmilgassant/permissions.sh/blob/main/README.md)
 - <b>Python</b>
   - [Happy coding](https://github.com/edmilgassant/python)
 
