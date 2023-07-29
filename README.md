@@ -15,8 +15,8 @@
   - [Having fun with scripting](https://github.com/edmilgassant/bash_script)
   - [fun permissions.sh](https://github.com/edmilgassant/permissions.sh/blob/main/README.md)
 - <b>Python</b>
-  - [Happy coding](https://github.com/edmilgassant/python)
-
+  - [spaceships and marines](https://github.com/edmilgassant/spaceships/tree/main)
+    
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
