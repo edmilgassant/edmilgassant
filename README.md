@@ -10,7 +10,13 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/edmilgassant/active-directory)
   - [Network Protocols and Network Security Groups](https://github.com/edmilgassant/NSG)
-  
+
+- <b>bash_scripting</b>
+  - [Having fun with scripting](https://github.com/edmilgassant/bash_script)
+
+- <b>Python</b>
+  - [Happy coding](https://github.com/edmilgassant/python)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
