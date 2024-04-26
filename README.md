@@ -9,7 +9,7 @@
   
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/edmilgassant/active-directory)
-  - [Network Protocols and Network Security Groups](https://github.com/edmilgassant/NSG)
+  - [Network Protocols](https://github.com/edmilgassant/NSG)
 
 - <b>bash_scripting</b>
   - [Having fun with scripting](https://github.com/edmilgassant/bash_script)
