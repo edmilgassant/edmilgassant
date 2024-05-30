@@ -12,7 +12,7 @@
   - [Network Protocols](https://github.com/edmilgassant/NSG)
 
 - <b>bash_scripting</b>
-  - [Having fun with scripting](https://github.com/edmilgassant/bash_script)
+  - [Firewall Script](https://github.com/edmilgassant/bash_script)
   - [fun permissions.sh](https://github.com/edmilgassant/permissions.sh/blob/main/README.md)
     
 - <b>Python</b>
@@ -21,7 +21,5 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/millzg3
 [linkedin]: https://linkedin.com/in/edmilgassant
