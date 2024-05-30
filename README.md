@@ -12,7 +12,7 @@
   - [Network Protocols](https://github.com/edmilgassant/NSG)
 
 - <b>bash_scripting</b>
-  - [Firewall Script](https://github.com/edmilgassant/bash_script)
+  - [firewall script](https://github.com/edmilgassant/bash_script)
   - [fun permissions.sh](https://github.com/edmilgassant/permissions.sh/blob/main/README.md)
     
 - <b>Python</b>
