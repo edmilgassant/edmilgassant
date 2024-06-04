@@ -12,7 +12,7 @@
 - <b>bash_scripting</b>
   - [firewall script](https://github.com/edmilgassant/bash_script)
   - [latency_test.sh](https://github.com/edmilgassant/permissions.sh/blob/main/README.md)
-  - [check_os.sh](https://github.com/edmilgassant/bash_script)
+  - [check_os.sh](https://github.com/edmilgassant/)
     
 - <b>Python</b>
   - [update_system.py](https://github.com/edmilgassant/spaceships/tree/main)
