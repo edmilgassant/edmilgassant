@@ -1,5 +1,3 @@
-<h1>Hi, I'm Edmil, a <a href="https://linkedin.com/in/edmilgassant">Linux Administrator
-
 <h2>👨‍💻 Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
