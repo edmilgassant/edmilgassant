@@ -16,7 +16,7 @@
   - [fun permissions.sh](https://github.com/edmilgassant/permissions.sh/blob/main/README.md)
     
 - <b>Python</b>
-  - [spaceships and marines](https://github.com/edmilgassant/spaceships/tree/main)
+  - [update_system.py](https://github.com/edmilgassant/spaceships/tree/main)
     
 <h2>🤳Connect with me:</h2>
 
